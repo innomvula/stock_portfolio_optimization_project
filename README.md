@@ -1,15 +1,29 @@
-# Stock Portfolio Optimization
+# 📊 Stock Portfolio Optimization
 
-## Overview
+## 🔍 Project Overview
+This project explores the application of Modern Portfolio Theory to optimize a portfolio composed of selected technology and consumer stocks. It identifies the optimal asset allocation that maximizes return for a given level of risk using historical price data.
 
-## Problem
+## Tools and Techniques Used
+- **Programming Language:** Python  
+- **Libraries:**  
+  - `pandas`, `numpy` – data manipulation  
+  - `matplotlib`, `seaborn` – visualization  
+  - `scipy.optimize` – optimization  
+- **Techniques:**  
+  - Log returns & covariance matrix  
+  - Monte Carlo simulation of portfolios  
+  - Sharpe ratio maximization  
+  - Efficient frontier plotting  
+  - Portfolio optimization via `scipy.optimize.minimize`
 
-## Objective
-
-## Key Steps
-
-## Conclusions
+## Key Insights
+- Thousands of portfolios were simulated to visualize the risk-return trade-off.
+- Optimal portfolio identified by maximizing the Sharpe ratio.
+- Efficient frontier plotted to visualize portfolio performance boundaries.
+- Diversification shown to improve risk-adjusted returns.
 
 ## Skills Demonstrated
-
-## Technology Used
+- Financial data retrieval and preprocessing
+- Quantitative analysis with return and volatility metrics
+- Optimization techniques for real-world financial modeling
+- Data visualization for risk-return interpretation
