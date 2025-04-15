@@ -18,8 +18,7 @@ This project explores the application of Modern Portfolio Theory to optimize a p
 
 ## Key Insights
 - Thousands of portfolios were simulated to visualize the risk-return trade-off.
-- Optimal portfolio identified by maximizing the Sharpe ratio.
-- Efficient frontier plotted to visualize portfolio performance boundaries.
+- Optimal portfolio was identified by maximizing the Sharpe ratio, however there is a tradeoff where the high return comes with higher risk as expected.
 - Diversification shown to improve risk-adjusted returns.
 
 ## Skills Demonstrated
