@@ -1,6 +1,6 @@
-# 📊 Stock Portfolio Optimization
+# Stock Portfolio Optimization
 
-## 🔍 Project Overview
+## Project Overview
 This project explores the application of Modern Portfolio Theory to optimize a portfolio composed of selected technology and consumer stocks. It identifies the optimal asset allocation that maximizes return for a given level of risk using historical price data.
 
 ## Tools and Techniques Used
